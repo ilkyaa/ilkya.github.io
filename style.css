@@ -33,11 +33,7 @@ h1 {
   justify-content: center;
 }
 body {
-  background: url(img/bg.png) repeat fixed black;
-  animation: change-background 2s linear infinite;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+  background: url(img/bg.mp4) 
 }
 header {
   display: flex;
